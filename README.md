@@ -1,18 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Devanathan%20T&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python+%26+Full-Stack+Developer+%7C+ML+Enthusiast+%7C+Cloud+Builder&descAlignY=62&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Devanathan%20T&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Python+%26+Full-Stack+Developer+%7C+ML+Enthusiast+%7C+Cloud+Builder&amp;descAlignY=62&amp;descSize=16" />
 </p>
-
 <p align="center">
   <a href="https://github.com/DEVANATHAN-TG">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+There%21+I%27m+Devanathan+T+%F0%9F%91%8B;Python+%26+Full-Stack+Developer+%F0%9F%90%8D;ML+Enthusiast+%7C+System+Integration+Specialist+%F0%9F%A4%96;Building+Scalable+Cloud+Applications+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hi+There%21+I%27m+Devanathan+T+%F0%9F%91%8B;Python+%26+Full-Stack+Developer+%F0%9F%90%8D;ML+Enthusiast+%7C+System+Integration+Specialist+%F0%9F%A4%96;Building+Scalable+Cloud+Applications+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DEVANATHAN-TG&style=flat-square&color=70a5fd&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/DEVANATHAN-TG?style=flat-square&color=bf91f3&label=Followers&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=DEVANATHAN-TG&amp;style=flat-square&amp;color=70a5fd&amp;label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/DEVANATHAN-TG?style=flat-square&amp;color=bf91f3&amp;label=Followers&amp;logo=github&amp;logoColor=white" alt="Followers" />
 </p>
-
 ---
 
 ## 🧑‍💻 About Me

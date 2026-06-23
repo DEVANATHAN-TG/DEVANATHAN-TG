@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/DEVANATHAN-TG">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hi+There%21+I%27m+Devanathan+T+%F0%9F%91%8B;Python+%26+Full-Stack+Developer+%F0%9F%90%8D;ML+Enthusiast+%7C+System+Integration+Specialist+%F0%9F%A4%96;Building+Scalable+Cloud+Applications+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hi+There%21+I%27m+DEVANATHAN+T+%F0%9F%91%8B;Python+%26+Full-Stack+Developer+%F0%9F%90%8D;ML+Enthusiast+%7C+System+Integration+Specialist+%F0%9F%A4%96;Building+Scalable+Cloud+Applications+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
@@ -20,7 +20,7 @@
 ```python
 class Devanathan:
     def __init__(self):
-        self.name              = "Devanathan T"
+        self.name              = "DEVANATHAN T"
         self.location          = "Puducherry, India 🇮🇳"
         self.degree            = "M.Sc Computer Science @ Pondicherry University"
         self.stack             = [

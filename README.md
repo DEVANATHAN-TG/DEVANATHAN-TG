@@ -115,13 +115,14 @@ print(me.motto())
 
 ---
 
-## 🏆 Trophy Wall
+<!--## 🏆 Trophy Wall
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DEVANATHAN-TG&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
----
+--- 
+-->
 
 ## 💼 Work Experience
 
@@ -146,7 +147,7 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| 🏛️ [**Eligibility-Based Gov Scheme Recommender**](https://github.com/DEVANATHAN-TG) | Python · Next.js · Supabase · Drizzle ORM · Decision Tree · Random Forest | Full-stack cloud app connecting citizens to government schemes via ML; tight system integration between app logic and data layer; collaborative code-reviewed codebase; Jan 2026 – Apr 2026 |
+| 🏛️ [**Eligibility-Based Gov Scheme Recommender**](https://github.com/DEVANATHAN-TG/SchemeConnect) | Python · Next.js · Supabase · Drizzle ORM · Decision Tree · Random Forest | Full-stack cloud app connecting citizens to government schemes via ML; tight system integration between app logic and data layer; collaborative code-reviewed codebase; Jan 2026 – Apr 2026 |
 
 </div>
 

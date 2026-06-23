@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DEVANATHAN%20TG&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20and%20Full-Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Cloud%20Builder&descAlignY=62&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DEVANATHAN%20T&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20and%20Full-Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Cloud%20Builder&descAlignY=62&descSize=16" />
 </p>
 <p align="center">
   <a href="https://github.com/DEVANATHAN-TG">

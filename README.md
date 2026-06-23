@@ -10,6 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=DEVANATHAN-TG&amp;style=flat-square&amp;color=70a5fd&amp;label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/DEVANATHAN-TG?style=flat-square&amp;color=bf91f3&amp;label=Followers&amp;logo=github&amp;logoColor=white" alt="Followers" />
 </p>
+
 ---
 
 ## 🧑‍💻 About Me
